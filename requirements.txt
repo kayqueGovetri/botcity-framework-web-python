@@ -6,3 +6,4 @@ pillow
 selenium>=4.6.1,<5
 undetected-chromedriver
 packaging
+urllib3>=1,<2
